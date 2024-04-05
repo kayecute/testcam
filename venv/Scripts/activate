@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\drnee\Downloads\github\testcam\venv"
+VIRTUAL_ENV="C:\Users\drnee\Downloads\github\testcamera\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

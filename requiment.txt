@@ -1,0 +1,12 @@
+numpy
+opencv-python
+python = 3.8.10
+
+# How to run
+# install ivcam if you want to use realsense camera with ivcam
+# install droidcam if you want to use droidcam with android phone
+# if you use droidcam, you need to install droidcam app in your android phone and connect to your computer
+# please check the ip address and port number in the code
+
+# for ivcam , my camera flip 180 degree, so I need to flip the image in the code then i set flip = 0 
+# check the comment in the code before run the code
